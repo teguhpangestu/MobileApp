@@ -1,4 +1,4 @@
-# hello_flutter
+# Mobile App using flutter
 
 A new Flutter project.
 
